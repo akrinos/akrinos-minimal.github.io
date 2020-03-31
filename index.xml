@@ -13,29 +13,29 @@
     
     <item>
       <title>About Arianna</title>
-      <link>http://akrinos.github.io/about/</link>
+      <link>http://akrinos.github.io/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://akrinos.github.io/about/</guid>
+      <guid>http://akrinos.github.io/about.html</guid>
       <description>I am a biological oceanographer and microbial ecologist in the MIT-WHOI Joint Program, where I study coccolithophores using bioinformatics and modeling.
 I graduated from Virginia Tech in 2019, where I studied Computer Science, Biological Sciences, and Computational Modeling and Data Analytics. I have had a long-standing interest in mathematics and operational thinking on one hand, and biology, marine science, and naturalism of the other, and I have been so pleasantly surprised to find a natural combination of the two in my work.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://akrinos.github.io/contact/</link>
+      <link>http://akrinos.github.io/contact.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://akrinos.github.io/contact/</guid>
+      <guid>http://akrinos.github.io/contact.html</guid>
       <description>Feel free to email me at akrinos@mit.edu, or reach out to me on Twitter as @ariannakrinos.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://akrinos.github.io/projects/</link>
+      <link>http://akrinos.github.io/projects.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://akrinos.github.io/projects/</guid>
+      <guid>http://akrinos.github.io/projects.html</guid>
       <description>In the future, I&amp;rsquo;ll populate this page with information about and results from my current and past projects.</description>
     </item>
     
