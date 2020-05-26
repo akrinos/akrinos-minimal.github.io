@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arianna Krinos: PhD Student in Biological Oceanography</title>
+    <title>Arianna Krinos - Biological Oceanography Ph.D. student on Arianna Krinos: PhD Student in Biological Oceanography</title>
     <link>//akrinos.github.io/</link>
-    <description>Recent content on Arianna Krinos: PhD Student in Biological Oceanography</description>
+    <description>Recent content in Arianna Krinos - Biological Oceanography Ph.D. student on Arianna Krinos: PhD Student in Biological Oceanography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2020 07:40:45 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 18:28:28 +0200</lastBuildDate>
     
 	<atom:link href="//akrinos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>//akrinos.github.io/posts/sayinghello/</link>
-      <pubDate>Wed, 01 Apr 2020 07:40:45 -0400</pubDate>
+      <title>Welcome to the site!</title>
+      <link>//akrinos.github.io/posts/welcome-akrinos/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 -0400</pubDate>
       
-      <guid>//akrinos.github.io/posts/sayinghello/</guid>
+      <guid>//akrinos.github.io/posts/welcome-akrinos/</guid>
       <description>Welcome to my site! This page will be populated with any new updates.</description>
     </item>
     
